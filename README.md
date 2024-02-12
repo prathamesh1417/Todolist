@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App to Develop TodoList
+![Screenshot (45)](https://github.com/prathamesh1417/React-TodoList/assets/112570889/67f63295-afc5-4f8e-9b65-f6c718ec9202)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
